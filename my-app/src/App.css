@@ -13,7 +13,7 @@
 } 
 
 .background { 
-	background: rgb(255, 255, 255); 
+	background: rgb(12, 12, 12); 
 	background-blend-mode: darken; 
 	background-size: cover; 
 } 
@@ -41,12 +41,12 @@ background-color: #000;
 
 .nav-list li { 
 	list-style: none; 
-	padding: 26px 30px; 
+	padding: 26px 30px;
 } 
 
 .nav-list li a { 
 	text-decoration: none; 
-	color: #000; 
+	color: #f5f5f5; 
 } 
 
 .nav-list li a:hover { 
@@ -101,15 +101,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 } 
 
 .text-small { 
-	font-size: 18px; 
+	font-size: 18px;
 } 
 
 .btn { 
 margin-left: 20px; 
 height: 33px; 
 width: 70px; 
-	color: #fff; 
-background-color: #000; 
+	color: #1b1b1b; 
 	cursor: pointer; 
 } 
 
