@@ -1,5 +1,6 @@
 import React from 'react'; 
 import './App.css'; 
+import logo from './LOGO-ERIC.png';
 
 function App() { 
 	return ( 
@@ -7,7 +8,7 @@ function App() {
 			<nav class="navbar background"> 
 				<ul class="nav-list"> 
 					<div class="logo"> 
-						<img src="my-app\src\LOGO-ERIC.png"/> 
+						<img src={logo} /> 
 					</div> 
 					<li><a href="sobre">Sobre</a></li> 
 					<li><a href="curriculo">Currículo</a></li> 
