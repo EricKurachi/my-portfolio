@@ -29,8 +29,9 @@ function App() {
 							Olá, meu nome é Eric Tamashiro Kurachi
 						</h1> 
 						<p class="text-small"> 
-              Desenvolvedor de software com 2 anos de experiência profissional. Durante a graduação, desenvolvi diversos projetos visando o ensino de programação e inteligência artificial que impactaram centenas de pessoas. Criei e otimizei soluções de automação e serviços web que aumentaram a produtividade e ajudaram a coletar métricas auxiliando cerca de 70 técnicos e engenheiros de P&D. Sempre preocupado com análise de dados e experiência do usuário em busca da melhoria na produtividade.
-						</p> 
+						Desenvolvedor de software com 2 anos de experiência profissional. Criou e otimizou aplicativos web e soluções de automação, 
+						auxiliando cerca de 70 técnicos e engenheiros de P&D. Desenvolveu vários projetos voltados para o ensino de programação e 
+						inteligência artificial, impactando centenas de alunos.</p> 
 					</div> 
 				</div> 
 			</section> 
