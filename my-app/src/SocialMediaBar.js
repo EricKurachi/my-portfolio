@@ -1,19 +1,30 @@
 import React from 'react';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './SocialMediaBar.css'
+
+import { Container } from 'react-bootstrap'
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLinkedin, faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons'
+
 const SocialMediaBar = () => {
   return (
     <div className="social-media-bar">
-      <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-facebook">teste</i>
-        
-      </a>
-      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-twitter"></i>
-      </a>
-      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-        <i className="fab fa-instagram"></i>
-      </a>
-      {/* Add more social media icons as needed */}
+      <Container>
+        <div className='single-col social-media-icons-white d-flex justify-content-evenly'>
+          <a href="https://www.linkedin.com/in/eric-kurachi/" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faLinkedin} />
+          </a>
+          <a href="https://github.com/EricKurachi" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faGithub} />
+          </a>
+          <a href="https://www.youtube.com/channel/UCLN0lEdo6TT61Jn9jTpzFpA" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faYoutube} />
+          </a>
+        </div>
+      </Container>
+
     </div>
   );
 };
