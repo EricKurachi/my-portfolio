@@ -12,7 +12,7 @@ const SocialMediaBar = () => {
   return (
     <div className="social-media-bar">
       <Container>
-        <div className='single-col social-media-icons-white d-flex justify-content-evenly'>
+        <div className='single-col social-media-icons-white d-flex justify-content-evenly fa-4x'>
           <a href="https://www.linkedin.com/in/eric-kurachi/" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
