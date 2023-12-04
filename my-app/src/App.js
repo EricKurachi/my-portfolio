@@ -8,6 +8,7 @@ const App = () => {
       <PortfolioHeader />
       {/* Other components/content of portfolio */}
       <SocialMediaBar />
+      © 2023 Eric Kurachi.
     </div>
   );
 };
