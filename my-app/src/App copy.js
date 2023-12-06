@@ -32,6 +32,21 @@ function App() {
 						Desenvolvedor de software com 2 anos de experiência profissional. Criou e otimizou aplicativos web e soluções de automação, 
 						auxiliando cerca de 70 técnicos e engenheiros de P&D. Desenvolveu vários projetos voltados para o ensino de programação e 
 						inteligência artificial, impactando centenas de alunos.</p> 
+						<h2>Tecumseh do Brasil</h2>
+						<p>
+						   Elaboração de um sistema de regulação de temperatura e umidade para câmaras de teste de compressores de refrigeração, 
+						   empregando controle PID e comunicação RS485. O projeto resultou em uma economia estimada de R$400.000,00, evitando a 
+						   necessidade de contratar uma empresa externa.
+						</p>
+						<p>
+						   Atualização de um programa em LabVIEW responsável pelo controle e aquisição de dados, geração de relatórios e gerenciamento 
+						   de banco de dados para ensaios de ruído isolado em compressores. Foi desenvolvida uma interface moderna e intuitiva, simplificando 
+						   os processos para o usuário e reestruturando um banco de dados com mais de 8000 ensaios.
+						</p>
+						<p>Gerenciamento e desenvolvimento Full-Stack de uma Home Page, incluindo melhorias no controle de inventário utilizando AJAX 
+						   (com mais de 20.000 itens) e otimizando a página de solicitação utilizada pelo laboratório e departamento de engenharia. 
+						   Além disso, foram feitos aprimoramentos na interface e experiência do usuário.
+						</p>
 					</div> 
 				</div> 
 			</section> 
