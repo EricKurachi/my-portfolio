@@ -47,6 +47,11 @@ function App() {
 						   (com mais de 20.000 itens) e otimizando a página de solicitação utilizada pelo laboratório e departamento de engenharia. 
 						   Além disso, foram feitos aprimoramentos na interface e experiência do usuário.
 						</p>
+						<h2>
+							Educação
+						</h2>
+						<h3>USP - Universidade de São Paulo</h3>
+						<p>Engenharia Elétrica - ênfase em eletrônica</p>
 					</div> 
 				</div> 
 			</section> 
